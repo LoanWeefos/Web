@@ -1,0 +1,12 @@
+/* content.css */
+section {
+    padding: 20px;
+    font-size: 18px;
+}
+
+.card-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+

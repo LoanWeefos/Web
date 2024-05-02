@@ -1,0 +1,1 @@
+export const sayHi = (name) => (console.log('Hola', name))

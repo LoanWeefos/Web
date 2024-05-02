@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nombre": "ISW",
+    "alumnos": []
+  },
+  {
+    "id": 2,
+    "nombre": "LDG",
+    "alumnos": [
+      {
+        "id": 1,
+        "nombre": "Hugo",
+        "carrera": "LDG"
+      }
+    ]
+  }
+]
